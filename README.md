@@ -1,6 +1,10 @@
 # Projeto-Churras
 Projeto Desenvolvido no curso do ProgrBr
 
+
+![Captura de tela de 2022-10-05 09-45-28](https://user-images.githubusercontent.com/92730620/194063703-3a2d1b05-cfff-41d9-b61b-fc6c6cbcadf9.png)
+
+
 # :computer: Sobre o Projeto
 
 Sistema para calcular a quantidade de carnes e bebida para um churrasco
