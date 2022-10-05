@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./imagem/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Churrascômetro </title>
+</head>
+<body>
+<div class="container">
+    <div class="text-content">
+        <h1>Seu churrasco <br>
+        Na medida!</h1>
+        <img src="./imagem/barbecue-animate.svg" class="img" alt="anim-foto">
+    </div>
+    <div class="content">
+        <div class="form">
+            <h1>Churrascometro</h1>
+            <div class="text-input">
+                <label class="text">Quantidade de Adultos: </label>
+                <input id="adultos" name="adultos" type="number" placeholder="Adultos">
+            </div>
+            <div class="text-input">
+                <label>Quantidade de Crianças: </label>
+                <input id="criancas" name="crianças" type="number" placeholder="Crianças">
+            </div>
+            <div class="text-input">
+                <label>Duração do Evento: </label>
+                <input id="duracao" name="duracao" type="number" placeholder="Duração">
+            </div>
+            <button onclick="calcular()" class="btn">Calcular</button>
+            <div id="resultado"></div>
+        </div>
+    </div>
+</div>
+    <footer>
+        <p>Developer Daniel Vieira</p>
+    </footer>
+    
+
+<script src='script.js'></script>
+</body>
+</html>
