@@ -1,4 +1,4 @@
-# CHurrascômetro
+# Churrascômetro
 Projeto Desenvolvido no curso do ProgrBr
 
 
